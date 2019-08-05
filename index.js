@@ -12,6 +12,11 @@
         "url": "https://docs.google.com/spreadsheets/d/1UEYK6I-WFMuBk9yQ3fNZh1MaT_CbBSH8YttWy3Y3JY4/edit?usp=sharing"
       },
       {
+        "name": "BuildingLink Slack",
+        "offsite": true,
+        "url": "https://buildinglink.slack.com/messages/general/"
+      },
+      {
         "name": "ScreenConnect",
         "url": "http://connect.buildinglink.com"
       },
@@ -107,7 +112,7 @@
   },
   "3": {
     "name": "Resources",
-    "color": "black",
+    "color": "#397db8",
     "map": [
       {
         "name": "Submit A Bug Report",
@@ -116,7 +121,7 @@
       {
         "name": "Submit A Feature Request",
         "url": "https://docs.google.com/forms/d/e/1FAIpQLSc2AMge6jk2B49LnOnZBqscigrBnrZlnmm7oOc3CrR4uL0H8g/viewform"
-      }, 
+      },
       {
         "name": "Look Up A Bug (TFS)",
         "url": "https://tfs.buildinglink.com/tfs/BuildingLink/Default/Web%20Bugs/_backlogs/board/Stories"
@@ -179,7 +184,7 @@
   },
   "5": {
     "name": "Company",
-    "color": "black",
+    "color": "#397db8",
     "map": [
       {
         "name": "Outlook 365",
