@@ -1,7 +1,7 @@
 {
   "0": {
     "name": "Support",
-    "color": "#397db8",
+    "color": "steelblue",
     "map": [
       {
         "name": "TSI <3 Organization",
@@ -162,6 +162,37 @@
       {
         "name": "Customer Comments Form",
         "url": "https://buildinglink.com/Public/Feedback.aspx"
+      }
+    ]
+  },
+  "5": {
+    "name": "Company",
+    "color": "#397db8",
+    "map": [
+      {
+        "name": "BuildingLink Slack",
+        "offsite": true,
+        "url": "https://buildinglink.slack.com/messages/general/"
+      },
+      {
+        "name": "Outlook 365 Mail",
+        "url": "https://outlook.office365.com/mail/inbox"
+      },
+      {
+        "name": "Outlook 365 Calendar",
+        "url": "https://outlook.office365.com/calendar/view/day"
+      },
+      {
+        "name": "ScreenConnect",
+        "url": "http://connect.buildinglink.com"
+      },
+      {
+        "name": "LogMe",
+        "url": "https://www.logmein.com"
+      },
+      {
+        "name": "Bamboo HR",
+        "url": "https://buildinglink.bamboohr.com/login.php"
       }
     ]
   }
