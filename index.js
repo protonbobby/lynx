@@ -52,44 +52,48 @@
     "color": "red",
     "map": [
       {
-        "name": "1st Lev Occupant (wizard | snitch)",
+        "name": "1st Lev Occupant",
         "url": "https://owner.buildinglink.com/V2/Tenant/Home/DefaultNew.aspx"
       },
       {
-        "name": "2nd Lev Occupant (ginger wizard | spiders)",
+        "name": "2nd Lev Occupant",
         "url": "https://renter.buildinglink.com/V2/Tenant/Home/DefaultNew.aspx"
       },
       {
-        "name": "Board Member (witch | leviosa)",
+        "name": "Board Member",
         "url": "https://board.buildinglink.com/V2/Tenant/Home/DefaultNew.aspx"
       },
       {
-        "name": "Security Officer (ele ven | stranger)",
+        "name": "Security Officer",
         "url": "https://securityofficer.buildinglink.com/V2/mgmt/default.aspx"
       },
       {
-        "name": "Manager (mike wheeler | stranger)",
+        "name": "Manager",
         "url": "https://manager.buildinglink.com/v2/mgmt/default.aspx"
       },
       {
-        "name": "Maintenance (lucas sinclair | stranger)",
+        "name": "Maintenance",
         "url": "https://maintenance.buildinglink.com/v2/mgmt/default.aspx"
       },
       {
-        "name": "Front Desk (dustin henderson | stranger)",
+        "name": "Front Desk",
         "url": "https://frontdesk.buildinglink.com/v2/mgmt/default.aspx"
       },
       {
-        "name": "Valet (will byers | stranger)",
+        "name": "Valet",
         "url": "https://valet.buildinglink.com/v2/mgmt/default.aspx"
       },
       {
-        "name": "Superuser (supersashimi | meow)",
+        "name": "Superuser",
         "url": "https://superuser.buildinglink.com/v2/superuser/defaultframe.aspx"
       },
       {
-        "name": "Public Display (Display Flip | 12345)",
+        "name": "Public Display",
         "url": "https://publicdisplay.buildinglink.com/v2/global/login/login.aspx"
+      },
+      {
+        "name": "(passwords)",
+        "url": "https://docs.google.com/document/d/19f97K7HcVtPU_tP8oHt9Us4PHES1S4Q3DN4T4jNncHE/edit?usp=sharing"
       }
     ]
   },
