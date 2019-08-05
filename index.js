@@ -107,7 +107,7 @@
   },
   "3": {
     "name": "Resources",
-    "color": "green",
+    "color": "black",
     "map": [
       {
         "name": "Submit A Bug Report",
