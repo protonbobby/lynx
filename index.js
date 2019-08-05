@@ -1,7 +1,7 @@
 {
   "0": {
     "name": "Support",
-    "color": "steelblue",
+    "color": "red",
     "map": [
       {
         "name": "TSI <3 Organization",
@@ -12,14 +12,22 @@
         "url": "https://docs.google.com/spreadsheets/d/1UEYK6I-WFMuBk9yQ3fNZh1MaT_CbBSH8YttWy3Y3JY4/edit?usp=sharing"
       },
       {
-        "name": "InOut Grid (BuildingLinkInOut | 12345)",
+        "name": "ScreenConnect",
+        "url": "http://connect.buildinglink.com"
+      },
+      {
+        "name": "LogMe",
+        "url": "https://www.logmein.com"
+      },
+      {
+        "name": "InOut Grid",
         "url": "https://inoutgrid.buildinglink.com/v2/global/login/login.aspx"
       }
     ]
   },
   "1": {
     "name": "FreshDesk",
-    "color": "#28c271",
+    "color": "green",
     "map": [
       {
         "name": "My Tickets",
@@ -49,7 +57,7 @@
   },
   "2": {
     "name": "Quick Logins",
-    "color": "red",
+    "color": "black",
     "map": [
       {
         "name": "1st Lev Occupant",
@@ -174,29 +182,36 @@
     "color": "#397db8",
     "map": [
       {
-        "name": "BuildingLink Slack",
-        "offsite": true,
-        "url": "https://buildinglink.slack.com/messages/general/"
-      },
-      {
-        "name": "Outlook 365 Mail",
+        "name": "Outlook 365",
         "url": "https://outlook.office365.com/mail/inbox"
-      },
-      {
-        "name": "Outlook 365 Calendar",
-        "url": "https://outlook.office365.com/calendar/view/day"
-      },
-      {
-        "name": "ScreenConnect",
-        "url": "http://connect.buildinglink.com"
-      },
-      {
-        "name": "LogMe",
-        "url": "https://www.logmein.com"
       },
       {
         "name": "Bamboo HR",
         "url": "https://buildinglink.bamboohr.com/login.php"
+      },
+      {
+        "name": "Staging",
+        "url": "https://staging.buildinglink.com/v2/global/login/login.aspx"
+      },
+      {
+        "name": "Public Site",
+        "url": "http://www.buildinglink.com/marketing/public/main"
+      },
+      {
+        "name": "Status Tracker",
+        "url": "https://www.buildinglinkstatus.com/"
+      },
+      {
+        "name": "Blog",
+        "url": "http://www.buildinglinkblog.com/"
+      },
+      {
+        "name": "Advantage Network",
+        "url": "http://www.buildinglink.com/public/advantage2/default.aspx"
+      },
+      {
+        "name": "API",
+        "url": "https://developer.buildinglink.com/apis"
       }
     ]
   }
