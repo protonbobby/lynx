@@ -13,7 +13,6 @@
       },
       {
         "name": "BuildingLink Slack",
-        "offsite": true,
         "url": "https://buildinglink.slack.com/messages/general/"
       },
       {
@@ -112,7 +111,7 @@
   },
   "3": {
     "name": "Resources",
-    "color": "#397db8",
+    "color": "green",
     "map": [
       {
         "name": "Submit A Bug Report",
@@ -149,6 +148,14 @@
       {
         "name": "Mail Servers",
         "url": "https://prtg-att.buildinglink.com/public/mapshow.htm?id=3070&mapid=07694E66-B48E-4D4A-9296-C58681BA7E17"
+      },
+      {
+        "name": "Outlook 365",
+        "url": "https://outlook.office365.com/mail/inbox"
+      },
+      {
+        "name": "Bamboo HR",
+        "url": "https://buildinglink.bamboohr.com/login.php"
       }
     ]
   },
@@ -161,23 +168,23 @@
         "url": "https://co1.qualtrics.com/login?path=%2FControlPanel%2F&product=ControlPanel"
       },
       {
-        "name": "Sales Call Form",
+        "name": "Sales Call",
         "url": "https://buildinglink.wufoo.com/forms/r1neftg01ev538m/"
       },
       {
-        "name": "Equipment Order Form",
+        "name": "Equipment Order (US)",
         "url": "https://buildinglink.wufoo.com/forms/buildinglink-equipment-request/"
       },
       {
-        "name": "Equipment Order Form (Canada)",
+        "name": "Equipment Order (CAN)",
         "url": "https://buildinglink.wufoo.com/forms/canada-buildinglink-equipment-request/"
       },
       {
-        "name": "KeyLink Order Form",
+        "name": "KeyLink Order",
         "url": "https://buildinglink.wufoo.com/forms/keylink-equipment-request/"
       },
       {
-        "name": "Customer Comments Form",
+        "name": "Customer Comments",
         "url": "https://buildinglink.com/Public/Feedback.aspx"
       }
     ]
@@ -186,14 +193,6 @@
     "name": "Company",
     "color": "#397db8",
     "map": [
-      {
-        "name": "Outlook 365",
-        "url": "https://outlook.office365.com/mail/inbox"
-      },
-      {
-        "name": "Bamboo HR",
-        "url": "https://buildinglink.bamboohr.com/login.php"
-      },
       {
         "name": "Staging",
         "url": "https://staging.buildinglink.com/v2/global/login/login.aspx"
