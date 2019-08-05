@@ -46,5 +46,51 @@
         "url": "https://docs.google.com/document/d/1DWlyPCmUYriY0r2gXGbsHJ4CkDIxdQ_IWa3lVYroLwA/edit?usp=sharing"
       }
     ]
+  },
+  "2": {
+    "name": "Quick Logins",
+    "color": "red",
+    "map": [
+      {
+        "name": "1st Lev Occupant (wizard | snitch)",
+        "url": "https://owner.buildinglink.com/V2/Tenant/Home/DefaultNew.aspx"
+      },
+      {
+        "name": "2nd Lev Occupant (ginger wizard | spiders)",
+        "url": "https://renter.buildinglink.com/V2/Tenant/Home/DefaultNew.aspx"
+      },
+      {
+        "name": "Board Member (witch | leviosa)",
+        "url": "https://board.buildinglink.com/V2/Tenant/Home/DefaultNew.aspx"
+      },
+      {
+        "name": "Security Officer (ele ven | stranger)",
+        "url": "https://securityofficer.buildinglink.com/V2/mgmt/default.aspx"
+      },
+      {
+        "name": "Manager (mike wheeler | stranger)",
+        "url": "https://manager.buildinglink.com/v2/mgmt/default.aspx"
+      },
+      {
+        "name": "Maintenance (lucas sinclair | stranger)",
+        "url": "https://maintenance.buildinglink.com/v2/mgmt/default.aspx"
+      },
+      {
+        "name": "Front Desk (dustin henderson | stranger)",
+        "url": "https://frontdesk.buildinglink.com/v2/mgmt/default.aspx"
+      },
+      {
+        "name": "Valet (will byers | stranger)",
+        "url": "https://valet.buildinglink.com/v2/mgmt/default.aspx"
+      },
+      {
+        "name": "Superuser (supersashimi | meow)",
+        "url": "https://superuser.buildinglink.com/v2/superuser/defaultframe.aspx"
+      },
+      {
+        "name": "Public Display (Display Flip | 12345)",
+        "url": "https://publicdisplay.buildinglink.com/v2/global/login/login.aspx"
+      }
+    ]
   }
 }
