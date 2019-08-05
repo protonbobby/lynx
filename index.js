@@ -179,7 +179,7 @@
   },
   "5": {
     "name": "Company",
-    "color": "#397db8",
+    "color": "black",
     "map": [
       {
         "name": "Outlook 365",
