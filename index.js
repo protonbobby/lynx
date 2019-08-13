@@ -26,7 +26,15 @@
       {
         "name": "InOut Grid",
         "url": "https://inoutgrid.buildinglink.com/v2/global/login/login.aspx"
-      }
+      },
+      {
+      "name" : "Manage Users",
+      "url" : "www.buildinglink.com/V2/Admin/Users/Search.aspx"
+      },
+      {
+      "name" : "Manage SuperUsers",
+      "url" : "www.buildinglink.com/v2/Admin/Superuser/Default.aspx"
+      },
     ]
   },
   "1": {
