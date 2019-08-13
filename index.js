@@ -34,7 +34,7 @@
       {
       "name" : "Manage SuperUsers",
       "url" : "www.buildinglink.com/v2/Admin/Superuser/Default.aspx"
-      },
+      }
     ]
   },
   "1": {
