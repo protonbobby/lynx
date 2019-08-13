@@ -29,11 +29,11 @@
       },
       {
       "name" : "Manage Users",
-      "url" : "www.buildinglink.com/V2/Admin/Users/Search.aspx"
+      "url" : "https://buildinglink.com/V2/Admin/Users/Search.aspx"
       },
       {
       "name" : "Manage SuperUsers",
-      "url" : "www.buildinglink.com/v2/Admin/Superuser/Default.aspx"
+      "url" : "https://buildinglink.com/v2/Admin/Superuser/Default.aspx"
       }
     ]
   },
