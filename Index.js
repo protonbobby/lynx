@@ -241,11 +241,11 @@
 "links": [
 {
 "url": "https://staging.buildinglink.com/v2/global/login/login.aspx",
-"name": "Staging     ",
+"name": "Staging     "
 },
 {
 "url": "https://prelive.buildinglink.com/v2/global/login/login.aspx",
-"name": "Prelive",
+"name": "Prelive"
 }
 ]
 },
