@@ -75,18 +75,27 @@
 "url": "https://inoutgrid.buildinglink.com/v2/global/login/login.aspx",
 "name": "InOut Grid"
 },
+  
+  {  
+  "links": [
+    {
+"label": "Resident"
+},
 {
 "url": "https://owner.buildinglink.com/V2/Tenant/Home/DefaultNew.aspx",
-"name": "1st Lev Occupant"
+"name": "(1st lev)"
 },
 {
 "url": "https://renter.buildinglink.com/V2/Tenant/Home/DefaultNew.aspx",
-"name": "2nd Lev Occupant"
+"name": "(2nd lev)"
 },
-{
+    {
 "url": "https://board.buildinglink.com/V2/Tenant/Home/DefaultNew.aspx",
-"name": "Board Member"
+"name": "Board"
 },
+]
+},
+
 {
 "url": "https://securityofficer.buildinglink.com/V2/mgmt/default.aspx",
 "name": "Security Officer"
@@ -114,18 +123,17 @@
 {
 "url": "https://publicdisplay.buildinglink.com/v2/global/login/login.aspx",
 "name": "Public Display"
-},
-{
-"url": "https://docs.google.com/document/d/19f97K7HcVtPU_tP8oHt9Us4PHES1S4Q3DN4T4jNncHE/edit?usp=sharing",
-"name": "Credentials For Sites Above"
 }
+
 ],
 "name": "Quick Logins"
 },
 "3": {
+"name": "Resources",
 "color": "black",
 "map": [
-{
+  
+  {
 "url": "mailto:bugs@buildinglink.com;?cc=training@buildinglink.com%20&subject=Product,%20Module%20%E2%80%93%20Title/Description&body=SUMMARY%0A%0A%0ASTEPS%20TO%20RECREATE%0A1.%0A2.%0A3.%0A%0ARESOLUTION%0A%0A%0AGo%20to%20https%3A//bit.ly/2RwYFjo%20for%20full%20bug%20report%20guide",
 "name": "Submit A Bug Report"
 },
@@ -134,13 +142,15 @@
 "name": "Submit A Feature Request"
 },
   
-{  
+
+  
+  {  
   "links": [
     {
 "label": "Look Up A Bug"
 },
 {
-"url": "https://tfs.buildinglink.com/tfs/BuildingLink/Default/Mobile%20Apps%20Team/_queries?id=e01bde62-5131-4d79-a345-82bafe441b76&_a=query",
+"url": "https://tfs.buildinglink.com/tfs/BuildingLink/Default/Web%20Bugs/_backlogs/board/Stories",
 "name": "(TFS)"
 },
 {
@@ -149,19 +159,31 @@
 }
 ]
 },
-
-{
+  
+  {
 "url": "https://docs.google.com/spreadsheets/d/1S3w6pkAFbjOrGXsw_e1JP8NAaD5u0KZ5RMd7a2l24k4/edit#gid=316893508",
 "name": "Look Up Existing Requests"
 },
-{
-"url": "http://help2.buildinglink.com/home",
-"name": "Resident Help Site"
+  
+  
+    {  
+  "links": [
+    {
+"label": "Help Site"
 },
 {
 "url": "http://help.buildinglink.com/home",
-"name": "Employee Help Site"
+"name": "(Employee)"
 },
+{
+"url": "http://help2.buildinglink.com/home",
+"name": "(Resident)"
+}
+]
+},
+
+
+  
 {
 "url": "https://www.kitterman.com/spf/validate.html",
 "name": "SPF Record Testing"
@@ -170,29 +192,36 @@
 "url": "https://prtg-att.buildinglink.com/public/mapshow.htm?id=3070&mapid=07694E66-B48E-4D4A-9296-C58681BA7E17",
 "name": "Mail Servers"
 },
+  
+  {
+"url": "https://tools.dnsstuff.com",
+"name": "DNS Lookup"
+},
 
 {
 "links": [
+  {
+"label": "Compressors"
+},
 {
 "url": "http://www.imageoptimizer.net/Pages/Home.aspx",
-"name": "JPG ",
-"label": ""
+"name": "(JPG)",
 },
 {
 "url": "https://smallpdf.com/compress-pdf",
-"name": "PDF Compressor",
-"label": "    "
+"name": "(PDF)",
 }
 ]
-},
-{
-"url": "https://tools.dnsstuff.com",
-"name": "DNS Lookup"
 }
-
 ],
-"name": "Resources"
+  {
+"url": "https://docs.google.com/document/d/19f97K7HcVtPU_tP8oHt9Us4PHES1S4Q3DN4T4jNncHE/edit?usp=sharing",
+"name": "Credentials For Quick Logins"
+}
+  
 },
+  
+  
 "4": {
 "color": "#397db8",
 "map": [
@@ -228,12 +257,8 @@
 "color": "#397db8",
 "map": [
   {
-"name": "Directory by Department",
+"name": "Directory by Dept.",
 "url": "DirectorybyDepartment.pdf"
-},
-  {
-"url": "https://outlook.office365.com/mail/inbox",
-"name": "Outlook 365"
 },
 {
 "url": "https://buildinglink.bamboohr.com/login.php",
@@ -244,19 +269,40 @@
 "links": [
 {
 "url": "https://staging.buildinglink.com/v2/global/login/login.aspx",
-"name": "Staging     "
+"name": "(Staging)"
 },
 {
 "url": "https://prelive.buildinglink.com/v2/global/login/login.aspx",
-"name": "Prelive"
+"name": "(Prelive)"
+},
+  {
+"url": "https://buildinglink.com/v2/global/login/login.aspx",
+"name": "(Live)"
+}
+]
+},
+  {
+"url": "http://www.buildinglink.com/marketing/public/main",
+"name": "Public Site"
+},
+   {
+"links": [
+{
+"url": "http://keylinkusa.com/Public/Keylink/",
+"name": "(KeyLink)"
+},
+{
+"url": "https://www.aware.buildinglink.com/",
+"name": "(Aware)"
+},
+  {
+"url": "http://www.buildinglink.com/public/advantage2/default.aspx",
+"name": "(Advantage)"
 }
 ]
 },
   
-{
-"url": "http://www.buildinglink.com/marketing/public/main",
-"name": "Public Site"
-},
+
 {
 "url": "https://www.buildinglinkstatus.com/",
 "name": "Status Tracker"
@@ -264,10 +310,6 @@
 {
 "url": "http://www.buildinglinkblog.com/",
 "name": "Blog"
-},
-{
-"url": "http://www.buildinglink.com/public/advantage2/default.aspx",
-"name": "Advantage Network"
 },
 {
 "url": "https://developer.buildinglink.com/apis",
