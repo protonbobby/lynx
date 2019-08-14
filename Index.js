@@ -92,7 +92,7 @@
 },
     {
 "url": "https://board.buildinglink.com/V2/Tenant/Home/DefaultNew.aspx",
-"name": "Board"
+"name": "(Board)"
 }
 ]
 },
@@ -212,7 +212,26 @@
     "name": "(PDF)"
     }
     ]
-  }
+  },
+  
+    {
+"links": [
+{
+"url": "https://staging.buildinglink.com/v2/global/login/login.aspx",
+"name": "(Staging)"
+},
+{
+"url": "https://prelive.buildinglink.com/v2/global/login/login.aspx",
+"name": "(Prelive)"
+},
+  {
+"url": "https://buildinglink.com/v2/global/login/login.aspx",
+"name": "(Live)"
+}
+]
+}
+  
+  
 ]},
   
   
@@ -259,26 +278,23 @@
 "name": "Bamboo HR"
 },
   
-  {
+
+  
+     {
 "links": [
-{
-"url": "https://staging.buildinglink.com/v2/global/login/login.aspx",
-"name": "(Staging)"
-},
-{
-"url": "https://prelive.buildinglink.com/v2/global/login/login.aspx",
-"name": "(Prelive)"
+  {
+"url": "http://www.buildinglink.com/marketing/public/main",
+"name": "(Public Site)"
 },
   {
-"url": "https://buildinglink.com/v2/global/login/login.aspx",
-"name": "(Live)"
+"url": "https://www.buildinglinkstatus.com/",
+"name": "(Status Tracker)"
 }
 ]
 },
-  {
-"url": "http://www.buildinglink.com/marketing/public/main",
-"name": "Public Site"
-},
+  
+  
+
    {
 "links": [
 {
@@ -297,10 +313,7 @@
 },
   
 
-{
-"url": "https://www.buildinglinkstatus.com/",
-"name": "Status Tracker"
-},
+
 {
 "url": "http://www.buildinglinkblog.com/",
 "name": "Blog"
