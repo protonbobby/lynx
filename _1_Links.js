@@ -69,6 +69,7 @@
 "name": "FreshDesk"
 },
 "2": {
+"name": "Quick Logins",
 "color": "black",
 "map": [
   {
@@ -92,7 +93,7 @@
     {
 "url": "https://board.buildinglink.com/V2/Tenant/Home/DefaultNew.aspx",
 "name": "Board"
-},
+}
 ]
 },
 
@@ -125,9 +126,10 @@
 "name": "Public Display"
 }
 
-],
-"name": "Quick Logins"
+]
 },
+  
+  
 "3": {
 "name": "Resources",
 "color": "black",
@@ -141,9 +143,7 @@
 "url": "https://docs.google.com/forms/d/e/1FAIpQLSc2AMge6jk2B49LnOnZBqscigrBnrZlnmm7oOc3CrR4uL0H8g/viewform",
 "name": "Submit A Feature Request"
 },
-  
 
-  
   {  
   "links": [
     {
@@ -165,7 +165,6 @@
 "name": "Look Up Existing Requests"
 },
   
-  
     {  
   "links": [
     {
@@ -182,8 +181,6 @@
 ]
 },
 
-
-  
 {
 "url": "https://www.kitterman.com/spf/validate.html",
 "name": "SPF Record Testing"
@@ -194,32 +191,31 @@
 },
   
   {
-"url": "https://tools.dnsstuff.com",
-"name": "DNS Lookup"
-},
+    "url": "https://tools.dnsstuff.com",
+    "name": "DNS Lookup"
+  },
 
 {
 "links": [
-  {
-"label": "Compressors"
-},
-{
-"url": "http://www.imageoptimizer.net/Pages/Home.aspx",
-"name": "(JPG)",
-},
-{
-"url": "https://smallpdf.com/compress-pdf",
-"name": "(PDF)",
-}
-]
-}
-],
-  {
-"url": "https://docs.google.com/document/d/19f97K7HcVtPU_tP8oHt9Us4PHES1S4Q3DN4T4jNncHE/edit?usp=sharing",
-"name": "Credentials For Quick Logins"
-}
+    {
+    "label": "Compressors"
+    },
+    {
+    "url": "http://www.imageoptimizer.net/Pages/Home.aspx",
+    "name": "(JPG)"
+    },
+    {
+    "url": "https://smallpdf.com/compress-pdf",
+    "name": "(PDF)"
+    }
+    ]
+  },
   
-},
+  {
+  "url": "https://docs.google.com/document/d/19f97K7HcVtPU_tP8oHt9Us4PHES1S4Q3DN4T4jNncHE/edit?usp=sharing",
+  "name": "Credentials For Quick Logins"
+  }
+]},
   
   
 "4": {
