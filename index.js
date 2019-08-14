@@ -14,18 +14,27 @@
 "url": "https://buildinglink.slack.com/messages/general/",
 "name": "BuildingLink Slack"
 },
+{  
+  "links": [
 {
 "url": "http://connect.buildinglink.com",
-"name": "ConnectWise"
+"name": "ConnectWise     ",
 },
 {
 "url": "https://www.logmein.com",
-"name": "LogMeIn"
+"name": "LogMeIn",
+}
+]
 },
 {
-"url": "https://inoutgrid.buildinglink.com/v2/global/login/login.aspx",
-"name": "InOut Grid"
+"name": "Manage Users",
+"url": "https://buildinglink.com/V2/Admin/Users/Search.aspx"
+},
+{
+"name": "Manage SuperUsers",
+"url": "https://buildinglink.com/v2/Admin/Superuser/Default.aspx"
 }
+
 ],
 "name": "Support"
 },
@@ -62,9 +71,9 @@
 "2": {
 "color": "black",
 "map": [
-{
-"url": "https://philip.buildinglink.com/",
-"name": "Philips PlayGround Test Site "
+  {
+"url": "https://inoutgrid.buildinglink.com/v2/global/login/login.aspx",
+"name": "InOut Grid"
 },
 {
 "url": "https://owner.buildinglink.com/V2/Tenant/Home/DefaultNew.aspx",
@@ -124,14 +133,20 @@
 "url": "https://docs.google.com/forms/d/e/1FAIpQLSc2AMge6jk2B49LnOnZBqscigrBnrZlnmm7oOc3CrR4uL0H8g/viewform",
 "name": "Submit A Feature Request"
 },
+  
+{  
+  "links": [
 {
 "url": "https://tfs.buildinglink.com/tfs/BuildingLink/Default/Mobile%20Apps%20Team/_queries?id=e01bde62-5131-4d79-a345-82bafe441b76&_a=query",
-"name": "Look Up A Bug (TFS)"
+"name": "Look Up A Bug (TFS)",
 },
 {
 "url": "https://trello.com/b/FuRdRRWo/legacy-web-bugs",
-"name": "Look Up A Bug (Trello)"
+"name": "(Trello)",
+}
+]
 },
+
 {
 "url": "https://docs.google.com/spreadsheets/d/1S3w6pkAFbjOrGXsw_e1JP8NAaD5u0KZ5RMd7a2l24k4/edit#gid=316893508",
 "name": "Look Up Existing Requests"
@@ -152,14 +167,7 @@
 "url": "https://prtg-att.buildinglink.com/public/mapshow.htm?id=3070&mapid=07694E66-B48E-4D4A-9296-C58681BA7E17",
 "name": "Mail Servers"
 },
-{
-"url": "https://outlook.office365.com/mail/inbox",
-"name": "Outlook 365"
-},
-{
-"url": "https://buildinglink.bamboohr.com/login.php",
-"name": "Bamboo HR"
-},
+
 {
 "links": [
 {
@@ -177,11 +185,8 @@
 {
 "url": "https://tools.dnsstuff.com",
 "name": "DNS Lookup"
-},
-{
-"url": "https://www.godaddy.com",
-"name": "GoDaddy"
 }
+
 ],
 "name": "Resources"
 },
@@ -216,12 +221,35 @@
 "name": "Forms"
 },
 "5": {
+"name": "Company",
 "color": "#397db8",
 "map": [
+  {
+"name": "Directory by Department",
+"url": "DirectorybyDepartment.pdf"
+},
+  {
+"url": "https://outlook.office365.com/mail/inbox",
+"name": "Outlook 365"
+},
+{
+"url": "https://buildinglink.bamboohr.com/login.php",
+"name": "Bamboo HR"
+},
+  
+  {
+"links": [
 {
 "url": "https://staging.buildinglink.com/v2/global/login/login.aspx",
-"name": "Staging"
+"name": "Staging     ",
 },
+{
+"url": "https://prelive.buildinglink.com/v2/global/login/login.aspx",
+"name": "Prelive",
+}
+]
+},
+  
 {
 "url": "http://www.buildinglink.com/marketing/public/main",
 "name": "Public Site"
@@ -242,7 +270,6 @@
 "url": "https://developer.buildinglink.com/apis",
 "name": "API"
 }
-],
-"name": "Company"
+]
 }
 }
