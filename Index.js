@@ -18,11 +18,11 @@
   "links": [
 {
 "url": "http://connect.buildinglink.com",
-"name": "ConnectWise     ",
+"name": "ConnectWise     "
 },
 {
 "url": "https://www.logmein.com",
-"name": "LogMeIn",
+"name": "LogMeIn"
 }
 ]
 },
@@ -138,11 +138,11 @@
   "links": [
 {
 "url": "https://tfs.buildinglink.com/tfs/BuildingLink/Default/Mobile%20Apps%20Team/_queries?id=e01bde62-5131-4d79-a345-82bafe441b76&_a=query",
-"name": "Look Up A Bug (TFS)",
+"name": "Look Up A Bug (TFS)"
 },
 {
 "url": "https://trello.com/b/FuRdRRWo/legacy-web-bugs",
-"name": "(Trello)",
+"name": "(Trello)"
 }
 ]
 },
