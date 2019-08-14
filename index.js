@@ -84,11 +84,11 @@
 },
 {
 "url": "https://owner.buildinglink.com/V2/Tenant/Home/DefaultNew.aspx",
-"name": "(1st lev)"
+"name": "(1st)"
 },
 {
 "url": "https://renter.buildinglink.com/V2/Tenant/Home/DefaultNew.aspx",
-"name": "(2nd lev)"
+"name": "(2nd)"
 },
     {
 "url": "https://board.buildinglink.com/V2/Tenant/Home/DefaultNew.aspx",
@@ -124,8 +124,11 @@
 {
 "url": "https://publicdisplay.buildinglink.com/v2/global/login/login.aspx",
 "name": "Public Display"
-}
-
+},
+    {
+  "url": "https://docs.google.com/document/d/19f97K7HcVtPU_tP8oHt9Us4PHES1S4Q3DN4T4jNncHE/edit?usp=sharing",
+  "name": "Credentials For Sites Above"
+  }
 ]
 },
   
@@ -209,11 +212,6 @@
     "name": "(PDF)"
     }
     ]
-  },
-  
-  {
-  "url": "https://docs.google.com/document/d/19f97K7HcVtPU_tP8oHt9Us4PHES1S4Q3DN4T4jNncHE/edit?usp=sharing",
-  "name": "Credentials For Quick Logins"
   }
 ]},
   
