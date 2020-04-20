@@ -29,5 +29,34 @@
 "href": "https://buildinglink.com/v2/Admin/Superuser/Default.aspx"
 }
 ]
+},
+    {
+"section": "FreshDesk",
+"links": [
+{
+"name": "My Tickets",
+"href": "https://buildinglinksupport.freshdesk.com/a/tickets/filters/259718"
+},
+{
+"name": "Freshconnect",
+"href": "https://buildinglinksupport.freshconnect.io/conversations"
+},
+{
+"name": "Knowledge Base (Internal)",
+"href": "https://buildinglinksupport.freshdesk.com/support/home"
+},
+{
+"name": "Live Stats and Figures",
+"href": "https://share.geckoboard.com/dashboards/L4QD7Z3E7Q5RFI63"
+},
+{
+"name": "Site Status Tracker",
+"href": "https://updates.freshdesk.com/"
+},
+{
+"href": "https://docs.google.com/document/d/1DWlyPCmUYriY0r2gXGbsHJ4CkDIxdQ_IWa3lVYroLwA/edit?usp=sharing",
+"name": "Description Mapping Tree"
 }
+]
+  }
 ]
