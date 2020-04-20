@@ -58,5 +58,63 @@
 "name": "Description Mapping Tree"
 }
 ]
-  }
+  },
+    {
+"section": "Resources",
+"links": [
+{
+"name": "Submit A Bug Report",
+"href": "mailto:bugs@buildinglink.com;?cc=training@buildinglink.com%20&subject=Product,%20Module%20%E2%80%93%20Title/Description&body=SUMMARY%0A%0A%0ASTEPS%20TO%20RECREATE%0A1.%0A2.%0A3.%0A%0ARESOLUTION%0A%0A%0AGo%20to%20https%3A//bit.ly/2RwYFjo%20for%20full%20bug%20report%20guide"
+},
+{
+"name": "Submit A Feature Request",
+"href": "https://docs.google.com/forms/d/e/1FAIpQLSc2AMge6jk2B49LnOnZBqscigrBnrZlnmm7oOc3CrR4uL0H8g/viewform"
+},
+{
+"label": "Look Up A Bug",
+"name": "(TFS)",
+"href": "https://tfs.buildinglink.com/tfs/BuildingLink/Default/Web%20Bugs/_backlogs/board/Stories",
+"name2": "(Trello)",
+"href2": "https://trello.com/b/FuRdRRWo/legacy-web-bugs"
+},
+{
+"name": "Look Up Existing Requests",
+"href": "https://docs.google.com/spreadsheets/d/1S3w6pkAFbjOrGXsw_e1JP8NAaD5u0KZ5RMd7a2l24k4/edit#gid=316893508"
+},
+{
+"label": "Help Site",
+"name": "(Employee)",
+"href": "http://help.buildinglink.com/home",
+"name2": "(Resident)",
+"href2": "http://help2.buildinglink.com/home",
+},
+{
+"name": "SPF Record Testing",
+"href": "https://www.kitterman.com/spf/validate.html"
+},
+{
+"name": "Mail Servers",
+"url": "https://prtg-att.buildinglink.com/public/mapshow.htm?id=3070&mapid=07694E66-B48E-4D4A-9296-C58681BA7E17"
+},
+{
+"name": "DNS Lookup",
+"href": "https://tools.dnsstuff.com"
+},
+{
+"label": "Compressors",
+"name": "(JPG)",
+"href": "http://www.imageoptimizer.net/Pages/Home.aspx",
+"name2": "(PDF)",
+"href2": "https://smallpdf.com/compress-pdf"
+},
+{
+"name": "(Staging)",
+"url": "https://staging.buildinglink.com/v2/global/login/login.aspx",
+"name2": "(Prelive)",
+"href2": "https://prelive.buildinglink.com/v2/global/login/login.aspx",
+"name3": "(Live)",
+"href3": "https://buildinglink.com/v2/global/login/login.aspx"
+}
+]
+    }
 ]
