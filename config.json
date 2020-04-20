@@ -1,149 +1,120 @@
 [
-{
-"section": "Support",
-"links": [
-{
-"name": "TSI <3 Organization",
-"href": "https://docs.google.com/spreadsheets/d/1u1lhbCvhwMfi7927tEIrUAuoyhlV-BO7CLKGRgBtXRo/edit?usp=sharing"
-},
-{
-"name": "Training Process",
-"href": "https://docs.google.com/spreadsheets/d/1UEYK6I-WFMuBk9yQ3fNZh1MaT_CbBSH8YttWy3Y3JY4/edit?usp=sharing"
-},
-{
-"name": "BuildingLink Slack",
-"href": "https://buildinglink.slack.com/messages/general/"
-},
-{
-"name": "ConnectWise",
-"href": "http://connect.buildinglink.com",
-"name2": "LogMeIn",
-"href2": "https://www.logmein.com"
-},
-{
-"name": "Manage Users",
-"href": "https://buildinglink.com/V2/Admin/Users/Search.aspx"
-},
-{
-"name": "Manage SuperUsers",
-"href": "https://buildinglink.com/v2/Admin/Superuser/Default.aspx"
-}
-]
-},
-    {
-"section": "FreshDesk",
-"links": [
-{
-"name": "My Tickets",
-"href": "https://buildinglinksupport.freshdesk.com/a/tickets/filters/259718"
-},
-{
-"name": "Freshconnect",
-"href": "https://buildinglinksupport.freshconnect.io/conversations"
-},
-{
-"name": "Knowledge Base (Internal)",
-"href": "https://buildinglinksupport.freshdesk.com/support/home"
-},
-{
-"name": "Live Stats and Figures",
-"href": "https://share.geckoboard.com/dashboards/L4QD7Z3E7Q5RFI63"
-},
-{
-"name": "Site Status Tracker",
-"href": "https://updates.freshdesk.com/"
-},
-{
-"href": "https://docs.google.com/document/d/1DWlyPCmUYriY0r2gXGbsHJ4CkDIxdQ_IWa3lVYroLwA/edit?usp=sharing",
-"name": "Description Mapping Tree"
-}
-]
-  },
-    {
-"section": "Resources",
-"links": [
-{
-"name": "Submit A Bug Report",
-"href": "mailto:bugs@buildinglink.com;?cc=training@buildinglink.com%20&subject=Product,%20Module%20%E2%80%93%20Title/Description&body=SUMMARY%0A%0A%0ASTEPS%20TO%20RECREATE%0A1.%0A2.%0A3.%0A%0ARESOLUTION%0A%0A%0AGo%20to%20https%3A//bit.ly/2RwYFjo%20for%20full%20bug%20report%20guide"
-},
-{
-"name": "Submit A Feature Request",
-"href": "https://docs.google.com/forms/d/e/1FAIpQLSc2AMge6jk2B49LnOnZBqscigrBnrZlnmm7oOc3CrR4uL0H8g/viewform"
-},
-{
-"label": "Look Up A Bug",
-"name": "(TFS)",
-"href": "https://tfs.buildinglink.com/tfs/BuildingLink/Default/Web%20Bugs/_backlogs/board/Stories",
-"name2": "(Trello)",
-"href2": "https://trello.com/b/FuRdRRWo/legacy-web-bugs"
-},
-{
-"name": "Look Up Existing Requests",
-"href": "https://docs.google.com/spreadsheets/d/1S3w6pkAFbjOrGXsw_e1JP8NAaD5u0KZ5RMd7a2l24k4/edit#gid=316893508"
-},
-{
-"label": "Help Site",
-"name": "(Employee)",
-"href": "http://help.buildinglink.com/home",
-"name2": "(Resident)",
-"href2": "http://help2.buildinglink.com/home"
-},
-{
-"name": "SPF Record Testing",
-"href": "https://www.kitterman.com/spf/validate.html"
-},
-{
-"name": "Mail Servers",
-"href": "https://prtg-att.buildinglink.com/public/mapshow.htm?id=3070&mapid=07694E66-B48E-4D4A-9296-C58681BA7E17"
-},
-{
-"name": "DNS Lookup",
-"href": "https://tools.dnsstuff.com"
-},
-{
-"label": "Compressors",
-"name": "(JPG)",
-"href": "http://www.imageoptimizer.net/Pages/Home.aspx",
-"name2": "(PDF)",
-"href2": "https://smallpdf.com/compress-pdf"
-},
-{
-"name": "(Staging)",
-"href": "https://staging.buildinglink.com/v2/global/login/login.aspx",
-"name2": "(Prelive)",
-"href2": "https://prelive.buildinglink.com/v2/global/login/login.aspx",
-"name3": "(Live)",
-"href3": "https://buildinglink.com/v2/global/login/login.aspx"
-}
-]
-    },
-    {
-    "section": "Forms",
+  {
+    "section": "Support",
     "links": [
-{
-"href": "https://co1.qualtrics.com/login?path=%2FControlPanel%2F&product=ControlPanel",
-"name": "Qualtrics"
-},
-{
-"href": "https://buildinglink.wufoo.com/forms/r1neftg01ev538m/",
-"name": "Sales Call"
-},
-{
-"href": "https://buildinglink.wufoo.com/forms/buildinglink-equipment-request/",
-"name": "Equipment Order (US)"
-},
-{
-"href": "https://buildinglink.wufoo.com/forms/canada-buildinglink-equipment-request/",
-"name": "Equipment Order (CAN)"
-},
-{
-"href": "https://buildinglink.wufoo.com/forms/keylink-equipment-request/",
-"name": "KeyLink Order"
-},
-{
-"href": "https://buildinglink.com/Public/Feedback.aspx",
-"name": "Tell Us What You Think"
-}
-]
-    }
+      {
+        "name": "TSI <3 Organization",
+        "href": "https://docs.google.com/spreadsheets/d/1u1lhbCvhwMfi7927tEIrUAuoyhlV-BO7CLKGRgBtXRo/edit?usp=sharing"
+      },
+      {
+        "name": "Training Process",
+        "href": "https://docs.google.com/spreadsheets/d/1UEYK6I-WFMuBk9yQ3fNZh1MaT_CbBSH8YttWy3Y3JY4/edit?usp=sharing"
+      },
+      {
+        "name": "BuildingLink Slack",
+        "href": "https://buildinglink.slack.com/messages/general/"
+      },
+      {
+        "name": "ConnectWise",
+        "href": "http://connect.buildinglink.com",
+        "name2": "LogMeIn",
+        "href2": "https://www.logmein.com"
+      },
+      {
+        "name": "Manage Users",
+        "href": "https://buildinglink.com/V2/Admin/Users/Search.aspx"
+      },
+      {
+        "name": "Manage SuperUsers",
+        "href": "https://buildinglink.com/v2/Admin/Superuser/Default.aspx"
+      }
+    ]
+  },
+  {
+    "section": "FreshDesk",
+    "links": [
+      {
+        "name": "My Tickets",
+        "href": "https://buildinglinksupport.freshdesk.com/a/tickets/filters/259718"
+      },
+      {
+        "name": "Freshconnect",
+        "href": "https://buildinglinksupport.freshconnect.io/conversations"
+      },
+      {
+        "name": "Knowledge Base (Internal)",
+        "href": "https://buildinglinksupport.freshdesk.com/support/home"
+      },
+      {
+        "name": "Live Stats and Figures",
+        "href": "https://share.geckoboard.com/dashboards/L4QD7Z3E7Q5RFI63"
+      },
+      {
+        "name": "Site Status Tracker",
+        "href": "https://updates.freshdesk.com/"
+      },
+      {
+        "href": "https://docs.google.com/document/d/1DWlyPCmUYriY0r2gXGbsHJ4CkDIxdQ_IWa3lVYroLwA/edit?usp=sharing",
+        "name": "Description Mapping Tree"
+      }
+    ]
+  },
+  {
+    "section": "Resources",
+    "links": [
+      {
+        "name": "Submit A Bug Report",
+        "href": "mailto:bugs@buildinglink.com;?cc=training@buildinglink.com%20&subject=Product,%20Module%20%E2%80%93%20Title/Description&body=SUMMARY%0A%0A%0ASTEPS%20TO%20RECREATE%0A1.%0A2.%0A3.%0A%0ARESOLUTION%0A%0A%0AGo%20to%20https%3A//bit.ly/2RwYFjo%20for%20full%20bug%20report%20guide"
+      },
+      {
+        "name": "Submit A Feature Request",
+        "href": "https://docs.google.com/forms/d/e/1FAIpQLSc2AMge6jk2B49LnOnZBqscigrBnrZlnmm7oOc3CrR4uL0H8g/viewform"
+      },
+      {
+        "label": "Look Up A Bug",
+        "name": "(TFS)",
+        "href": "https://tfs.buildinglink.com/tfs/BuildingLink/Default/Web%20Bugs/_backlogs/board/Stories",
+        "name2": "(Trello)",
+        "href2": "https://trello.com/b/FuRdRRWo/legacy-web-bugs"
+      },
+      {
+        "name": "Look Up Existing Requests",
+        "href": "https://docs.google.com/spreadsheets/d/1S3w6pkAFbjOrGXsw_e1JP8NAaD5u0KZ5RMd7a2l24k4/edit#gid=316893508"
+      },
+      {
+        "label": "Help Site",
+        "name": "(Employee)",
+        "href": "http://help.buildinglink.com/home",
+        "name2": "(Resident)",
+        "href2": "http://help2.buildinglink.com/home"
+      },
+      {
+        "name": "SPF Record Testing",
+        "href": "https://www.kitterman.com/spf/validate.html"
+      },
+      {
+        "name": "Mail Servers",
+        "url": "https://prtg-att.buildinglink.com/public/mapshow.htm?id=3070&mapid=07694E66-B48E-4D4A-9296-C58681BA7E17"
+      },
+      {
+        "name": "DNS Lookup",
+        "href": "https://tools.dnsstuff.com"
+      },
+      {
+        "label": "Compressors",
+        "name": "(JPG)",
+        "href": "http://www.imageoptimizer.net/Pages/Home.aspx",
+        "name2": "(PDF)",
+        "href2": "https://smallpdf.com/compress-pdf"
+      },
+      {
+        "name": "(Staging)",
+        "url": "https://staging.buildinglink.com/v2/global/login/login.aspx",
+        "name2": "(Prelive)",
+        "href2": "https://prelive.buildinglink.com/v2/global/login/login.aspx",
+        "name3": "(Live)",
+        "href3": "https://buildinglink.com/v2/global/login/login.aspx"
+      }
+    ]
+  }
 ]
