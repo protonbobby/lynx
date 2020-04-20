@@ -109,11 +109,40 @@
 },
 {
 "name": "(Staging)",
-"url": "https://staging.buildinglink.com/v2/global/login/login.aspx",
+"href": "https://staging.buildinglink.com/v2/global/login/login.aspx",
 "name2": "(Prelive)",
 "href2": "https://prelive.buildinglink.com/v2/global/login/login.aspx",
 "name3": "(Live)",
 "href3": "https://buildinglink.com/v2/global/login/login.aspx"
+}
+]
+    },
+    {
+    section: "Forms",
+    links: [
+{
+"href": "https://co1.qualtrics.com/login?path=%2FControlPanel%2F&product=ControlPanel",
+"name": "Qualtrics"
+},
+{
+"href": "https://buildinglink.wufoo.com/forms/r1neftg01ev538m/",
+"name": "Sales Call"
+},
+{
+"href": "https://buildinglink.wufoo.com/forms/buildinglink-equipment-request/",
+"name": "Equipment Order (US)"
+},
+{
+"url": "https://buildinglink.wufoo.com/forms/canada-buildinglink-equipment-request/",
+"name": "Equipment Order (CAN)"
+},
+{
+"url": "https://buildinglink.wufoo.com/forms/keylink-equipment-request/",
+"name": "KeyLink Order"
+},
+{
+"href": "https://buildinglink.com/Public/Feedback.aspx",
+"name": "Tell Us What You Think"
 }
 ]
     }
