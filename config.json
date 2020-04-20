@@ -94,7 +94,7 @@
 },
 {
 "name": "Mail Servers",
-"url": "https://prtg-att.buildinglink.com/public/mapshow.htm?id=3070&mapid=07694E66-B48E-4D4A-9296-C58681BA7E17"
+"href": "https://prtg-att.buildinglink.com/public/mapshow.htm?id=3070&mapid=07694E66-B48E-4D4A-9296-C58681BA7E17"
 },
 {
 "name": "DNS Lookup",
@@ -133,11 +133,11 @@
 "name": "Equipment Order (US)"
 },
 {
-"url": "https://buildinglink.wufoo.com/forms/canada-buildinglink-equipment-request/",
+"href": "https://buildinglink.wufoo.com/forms/canada-buildinglink-equipment-request/",
 "name": "Equipment Order (CAN)"
 },
 {
-"url": "https://buildinglink.wufoo.com/forms/keylink-equipment-request/",
+"href": "https://buildinglink.wufoo.com/forms/keylink-equipment-request/",
 "name": "KeyLink Order"
 },
 {
